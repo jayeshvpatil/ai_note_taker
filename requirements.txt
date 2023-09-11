@@ -1,0 +1,5 @@
+streamlit
+sounddevice
+scipy
+semantic_kernel
+openai
